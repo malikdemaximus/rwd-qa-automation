@@ -1,0 +1,8 @@
+selenium
+pytest
+requests
+pytest-html
+pytest-xdist
+faker
+python-dotenv
+allure-pytest
